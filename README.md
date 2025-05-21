@@ -6,7 +6,7 @@ This walkthrough shows how to deploy the T-Pot honeypot platform on AWS using a 
 
 # 📺 Video Tutorial
 
-> [Install Honeypot in AWS](https://www.youtube.com/watch?v=IXTxLEMi5EI)
+> [Install Honeypot in AWS (in Spanish)](https://www.youtube.com/watch?v=IXTxLEMi5EI)
 
 ---
 
